@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\OneDrive\\Desktop\\ComProg\\Acitvity 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC195C5-1D81-4A26-8221-1B0D580E039F}|Acitvity 2\\Acitvity 2.csproj|c:\\users\\daniel\\onedrive\\desktop\\comprog\\acitvity 2\\acitvity 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC195C5-1D81-4A26-8221-1B0D580E039F}|Acitvity 2\\Acitvity 2.csproj|solutionrelative:acitvity 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\OneDrive\\Desktop\\ComProg\\Acitvity 2\\Acitvity 2\\Program.cs",
+              "RelativeDocumentMoniker": "Acitvity 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\OneDrive\\Desktop\\ComProg\\Acitvity 2\\Acitvity 2\\Program.cs",
+              "RelativeToolTip": "Acitvity 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:54:22.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
